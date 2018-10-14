@@ -1,0 +1,11 @@
+{
+  "name": "omg-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Okan Temur",
+  "license": "ISC"
+}
